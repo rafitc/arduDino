@@ -1,5 +1,4 @@
 # arduDino
-Arduino playing Dino game.                            
-
+Arduino powered T-Rex player
 pyserial, pyautogui and subprocess modules are used
 
